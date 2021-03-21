@@ -1,0 +1,5 @@
+- 👋 Hello, I am @TheRussianOne, also known as "Russian."
+- 👀 I am a FiveM developer
+- 📫 I can be reached through discord @TheRussianOne#7390
+- I have a fair amount of knowledge on .lua, as well as little on both C# and .js
+- I am here to publish personal work that I feel others may enjoy.
